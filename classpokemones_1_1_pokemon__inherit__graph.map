@@ -1,0 +1,23 @@
+<map id="pokemones.Pokemon" name="pokemones.Pokemon">
+<area shape="rect" id="Node000001" title=" " alt="" coords="297,187,466,661"/>
+<area shape="rect" id="Node000008" href="$classpokemones_1_1_agua.html" title=" " alt="" coords="84,741,215,981"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="292,593,229,711,212,743,208,740,224,708,287,591"/>
+<area shape="rect" id="Node000009" href="$classpokemones_1_1_fuego.html" title=" " alt="" coords="239,741,370,981"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="340,677,328,742,323,741,334,676"/>
+<area shape="rect" id="Node000010" href="$classpokemones_1_1_hielo.html" title=" " alt="" coords="393,741,524,981"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="429,676,440,741,435,742,423,677"/>
+<area shape="rect" id="Node000011" href="$classpokemones_1_1_piedra.html" title=" " alt="" coords="548,709,679,1013"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="476,591,539,708,550,731,546,733,534,711,471,593"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,37,83,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,116,97,137,200,246,299,343,295,347,196,250,93,140,76,120"/>
+<area shape="rect" id="Node000003" href="$interfaceinterfaces_1_1_i_hostil.html" title=" " alt="" coords="107,37,216,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,117,299,287,295,290,188,120"/>
+<area shape="rect" id="Node000004" href="$interfaceinterfaces_1_1_i_valuable.html" title=" " alt="" coords="240,37,365,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="316,120,331,186,326,187,311,121"/>
+<area shape="rect" id="Node000005" href="$interfaceinterfaces_1_1_i_clasificable.html" title=" " alt="" coords="390,37,533,107"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="453,121,438,187,433,186,448,120"/>
+<area shape="rect" id="Node000006" href="$interfaceinterfaces_1_1_i_hechizable.html" title=" " alt="" coords="558,5,698,139"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="576,152,468,305,464,302,571,149"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="723,37,792,107"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="729,120,713,140,652,202,588,262,468,361,464,357,584,258,648,199,709,137,725,117"/>
+</map>

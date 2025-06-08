@@ -1,0 +1,5 @@
+<map id="vista.IVistaArenas" name="vista.IVistaArenas">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,206,395"/>
+<area shape="rect" id="Node000002" href="$classvista_1_1_ventana_arenas.html" title=" " alt="" coords="22,443,189,725"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,409,108,443,103,443,103,409"/>
+</map>

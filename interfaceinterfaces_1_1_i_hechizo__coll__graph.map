@@ -1,0 +1,9 @@
+<map id="interfaces.IHechizo" name="interfaces.IHechizo">
+<area shape="rect" id="Node000001" title=" " alt="" coords="127,123,251,235"/>
+<area shape="rect" id="Node000002" href="$interfaceinterfaces_1_1_i_valuable.html" title=" " alt="" coords="5,5,130,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="109,84,142,121,138,124,105,88"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="155,5,223,75"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,90,192,123,186,123,186,90"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="248,5,325,75"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="256,89,230,124,226,121,251,85"/>
+</map>

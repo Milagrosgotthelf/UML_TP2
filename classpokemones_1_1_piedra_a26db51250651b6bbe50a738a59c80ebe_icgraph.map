@@ -1,0 +1,6 @@
+<map id="pokemones.Piedra.Piedra" name="pokemones.Piedra.Piedra">
+<area shape="rect" id="Node000001" title=" " alt="" coords="218,29,388,56"/>
+<area shape="rect" id="Node000002" href="$classpokemones_1_1_piedra.html#ac5cbabb3ee1b489e4d6e368aa80934af" title=" " alt="" coords="5,29,170,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="202,45,170,45,170,40,202,40"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="124,16,112,10,87,8,65,10,53,15,50,20,55,27,51,30,45,21,49,11,64,5,88,3,113,5,127,12"/>
+</map>

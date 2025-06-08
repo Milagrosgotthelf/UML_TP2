@@ -1,0 +1,27 @@
+<map id="interfaces.IValuable" name="interfaces.IValuable">
+<area shape="rect" id="Node000001" title=" " alt="" coords="362,5,487,75"/>
+<area shape="rect" id="Node000002" href="$classarmas_1_1_arma.html" title=" " alt="" coords="126,272,211,448"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="386,87,353,124,213,303,209,300,349,121,382,84"/>
+<area shape="rect" id="Node000005" href="$interfaceinterfaces_1_1_i_hechizo.html" title=" " alt="" coords="363,304,486,416"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="427,89,427,304,422,304,422,89"/>
+<area shape="rect" id="Node000009" href="$classpokemones_1_1_pokemon.html" title=" " alt="" coords="772,123,941,597"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="484,81,774,294,771,299,480,86"/>
+<area shape="rect" id="Node000003" href="$classarmas_1_1_espada.html" title=" " alt="" coords="5,731,100,864"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,463,73,732,67,730,139,462"/>
+<area shape="rect" id="Node000004" href="$classarmas_1_1_hacha.html" title=" " alt="" coords="124,731,213,864"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="171,463,171,731,166,731,166,463"/>
+<area shape="rect" id="Node000006" href="$classhechizos_1_1_niebla.html" title=" " alt="" coords="237,731,340,864"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="406,431,312,732,306,730,401,429"/>
+<area shape="rect" id="Node000007" href="$classhechizos_1_1_tormenta.html" title=" " alt="" coords="364,731,485,864"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="427,431,427,731,422,731,422,431"/>
+<area shape="rect" id="Node000008" href="$classhechizos_1_1_viento.html" title=" " alt="" coords="509,731,612,864"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="449,429,543,730,538,732,444,431"/>
+<area shape="rect" id="Node000010" href="$classpokemones_1_1_agua.html" title=" " alt="" coords="636,677,768,917"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="770,612,747,679,742,677,765,611"/>
+<area shape="rect" id="Node000011" href="$classpokemones_1_1_fuego.html" title=" " alt="" coords="791,677,922,917"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="859,612,859,678,854,678,854,612"/>
+<area shape="rect" id="Node000012" href="$classpokemones_1_1_hielo.html" title=" " alt="" coords="946,677,1077,917"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="948,611,972,677,967,679,943,612"/>
+<area shape="rect" id="Node000013" href="$classpokemones_1_1_piedra.html" title=" " alt="" coords="1100,645,1232,949"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="953,464,1023,550,1091,644,1103,663,1098,666,1086,647,1019,553,949,467"/>
+</map>
