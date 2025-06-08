@@ -1,0 +1,19 @@
+<map id="interfaces.IHostil" name="interfaces.IHostil">
+<area shape="rect" id="Node000001" title=" " alt="" coords="258,5,368,75"/>
+<area shape="rect" id="Node000002" href="$classarmas_1_1_arma.html" title=" " alt="" coords="126,272,211,448"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,89,210,273,205,271,289,86"/>
+<area shape="rect" id="Node000005" href="$classpokemones_1_1_pokemon.html" title=" " alt="" coords="372,123,541,597"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="336,87,375,172,370,174,331,89"/>
+<area shape="rect" id="Node000003" href="$classarmas_1_1_espada.html" title=" " alt="" coords="5,731,100,864"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="144,463,73,732,67,730,139,462"/>
+<area shape="rect" id="Node000004" href="$classarmas_1_1_hacha.html" title=" " alt="" coords="124,731,213,864"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="171,463,171,731,166,731,166,463"/>
+<area shape="rect" id="Node000006" href="$classpokemones_1_1_agua.html" title=" " alt="" coords="236,677,368,917"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="370,612,347,679,342,677,365,611"/>
+<area shape="rect" id="Node000007" href="$classpokemones_1_1_fuego.html" title=" " alt="" coords="391,677,522,917"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="459,612,459,678,454,678,454,612"/>
+<area shape="rect" id="Node000008" href="$classpokemones_1_1_hielo.html" title=" " alt="" coords="546,677,677,917"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="548,611,572,677,567,679,543,612"/>
+<area shape="rect" id="Node000009" href="$classpokemones_1_1_piedra.html" title=" " alt="" coords="700,645,832,949"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="553,464,623,550,691,644,703,663,698,666,686,647,619,553,549,467"/>
+</map>

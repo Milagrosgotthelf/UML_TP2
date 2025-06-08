@@ -1,0 +1,16 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$interfacevista_1_1_i_vista_arenas.html" title=" " alt="" coords="10,5,138,32"/>
+<area shape="rect" id="Node000001" href="$classvista_1_1_ventana_arenas.html" title=" " alt="" coords="195,56,336,83"/>
+<area shape="poly" id="edge50_Node000000_Node000001" title=" " alt="" coords="143,34,213,53,212,58,142,39"/>
+<area shape="rect" id="Node000004" href="$interfacevista_1_1_i_vista_principal.html" title=" " alt="" coords="5,208,143,235"/>
+<area shape="rect" id="Node000003" href="$classvista_1_1_ventana_principal.html" title=" " alt="" coords="191,132,341,159"/>
+<area shape="poly" id="edge51_Node000004_Node000003" title=" " alt="" coords="127,199,142,194,231,157,233,162,144,198,128,204"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="41,107,107,133"/>
+<area shape="poly" id="edge52_Node000002_Node000001" title=" " alt="" coords="121,105,212,81,213,86,122,110"/>
+<area shape="poly" id="edge53_Node000002_Node000003" title=" " alt="" coords="122,124,191,133,190,138,121,129"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="29,157,119,184"/>
+<area shape="poly" id="edge54_Node000005_Node000003" title=" " alt="" coords="134,160,190,153,190,158,135,165"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="21,56,127,83"/>
+<area shape="poly" id="edge55_Node000006_Node000001" title=" " alt="" coords="143,67,195,67,195,72,143,72"/>
+<area shape="poly" id="edge56_Node000006_Node000003" title=" " alt="" coords="128,86,144,92,233,129,231,134,142,97,127,91"/>
+</map>

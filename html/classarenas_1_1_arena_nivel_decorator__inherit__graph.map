@@ -1,0 +1,13 @@
+<map id="arenas.ArenaNivelDecorator" name="arenas.ArenaNivelDecorator">
+<area shape="rect" id="Node000001" title=" " alt="" coords="115,187,290,320"/>
+<area shape="rect" id="Node000004" href="$classarenas_1_1_nivel_dificil.html" title=" " alt="" coords="5,368,122,501"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="145,333,116,370,112,366,140,330"/>
+<area shape="rect" id="Node000005" href="$classarenas_1_1_nivel_facil.html" title=" " alt="" coords="146,368,258,501"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="205,335,205,368,200,368,200,335"/>
+<area shape="rect" id="Node000006" href="$classarenas_1_1_nivel_medio.html" title=" " alt="" coords="282,368,400,501"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="264,330,292,366,288,370,260,333"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="109,37,186,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,120,185,186,180,188,160,122"/>
+<area shape="rect" id="Node000003" href="$interfacearenas_1_1_i_arena.html" title=" " alt="" coords="210,5,306,139"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="236,153,225,188,220,186,231,152"/>
+</map>

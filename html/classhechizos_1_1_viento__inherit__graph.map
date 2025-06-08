@@ -1,0 +1,12 @@
+<map id="hechizos.Viento" name="hechizos.Viento">
+<area shape="rect" id="Node000001" title=" " alt="" coords="185,283,289,416"/>
+<area shape="rect" id="Node000002" href="$interfaceinterfaces_1_1_i_hechizo.html" title=" " alt="" coords="126,123,250,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,248,221,282,215,284,205,250"/>
+<area shape="rect" id="Node000003" href="$interfaceinterfaces_1_1_i_valuable.html" title=" " alt="" coords="5,5,130,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="109,84,141,121,137,124,105,88"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="155,5,223,75"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="191,90,191,123,186,123,186,90"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="248,5,325,75"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="284,90,264,235,254,283,249,282,258,234,278,89"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="256,88,229,124,225,121,251,85"/>
+</map>

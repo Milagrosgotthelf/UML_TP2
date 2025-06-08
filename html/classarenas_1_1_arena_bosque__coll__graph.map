@@ -1,0 +1,10 @@
+<map id="arenas.ArenaBosque" name="arenas.ArenaBosque">
+<area shape="rect" id="Node000001" title=" " alt="" coords="45,393,177,527"/>
+<area shape="rect" id="Node000002" href="$classarenas_1_1_arena_tipo_decorator.html" title=" " alt="" coords="26,211,196,344"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,359,114,394,108,394,108,359"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,37,83,107"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="62,120,92,210,87,212,57,122"/>
+<area shape="rect" id="Node000004" href="$interfacearenas_1_1_i_arena.html" title=" " alt="" coords="107,5,203,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="134,154,132,163,123,212,118,211,127,162,129,153"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="143,139,131,195,126,194,138,138"/>
+</map>

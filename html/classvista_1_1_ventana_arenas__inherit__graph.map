@@ -1,0 +1,9 @@
+<map id="vista.VentanaArenas" name="vista.VentanaArenas">
+<area shape="rect" id="Node000001" title=" " alt="" coords="101,443,268,725"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,165,60,235"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="41,249,53,318,75,394,104,454,99,457,70,396,48,320,35,250"/>
+<area shape="rect" id="Node000003" href="$interfacevista_1_1_i_vista_arenas.html" title=" " alt="" coords="84,5,285,395"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,409,187,443,182,443,182,409"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="309,165,404,235"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="348,250,328,320,299,396,270,453,266,451,294,394,323,318,343,248"/>
+</map>
