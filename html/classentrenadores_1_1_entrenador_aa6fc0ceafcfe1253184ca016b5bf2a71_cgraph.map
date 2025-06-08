@@ -1,7 +1,0 @@
-<map id="entrenadores.Entrenador.asignarArmaAPokemonPiedra" name="entrenadores.Entrenador.asignarArmaAPokemonPiedra">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,215,65"/>
-<area shape="rect" id="Node000002" href="$classpokemones_1_1_piedra.html#a34f984d3adbc32151dbf23ae45d177ef" title=" " alt="" coords="281,5,488,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,32,265,27,266,32,215,37"/>
-<area shape="rect" id="Node000003" href="$classentrenadores_1_1_entrenador.html#a2160f825c1356dad52fd2a61c66b9f67" title=" " alt="" coords="263,56,506,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,51,247,54,247,59,215,56"/>
-</map>

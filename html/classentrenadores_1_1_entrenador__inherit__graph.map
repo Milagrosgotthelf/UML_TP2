@@ -1,9 +1,0 @@
-<map id="entrenadores.Entrenador" name="entrenadores.Entrenador">
-<area shape="rect" id="Node000001" title=" " alt="" coords="58,123,225,405"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,83,75"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="67,87,82,122,78,124,62,90"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="107,5,176,75"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="144,90,144,123,139,123,139,90"/>
-<area shape="rect" id="Node000004" href="$interfaceinterfaces_1_1_i_clasificable.html" title=" " alt="" coords="200,5,344,75"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="247,89,226,124,222,121,243,86"/>
-</map>

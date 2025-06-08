@@ -1,9 +1,0 @@
-<map id="arenas.Arena" name="arenas.Arena">
-<area shape="rect" id="Node000001" title=" " alt="" coords="116,187,212,341"/>
-<area shape="rect" id="Node000002" href="$interfacearenas_1_1_i_arena.html" title=" " alt="" coords="5,5,101,139"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,150,122,186,117,188,97,153"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="125,37,203,107"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="167,121,167,187,161,187,161,121"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="227,37,290,107"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="238,121,204,188,200,186,233,118"/>
-</map>

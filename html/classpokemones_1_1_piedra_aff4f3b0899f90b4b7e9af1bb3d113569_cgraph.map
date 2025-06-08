@@ -1,7 +1,0 @@
-<map id="pokemones.Piedra.atacar" name="pokemones.Piedra.atacar">
-<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,175,57"/>
-<area shape="rect" id="Node000002" href="$classpokemones_1_1_pokemon.html#a209196a16414df48d3dd68328b7d8437" title=" " alt="" coords="228,5,434,32"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,32,212,29,213,34,175,38"/>
-<area shape="rect" id="Node000003" href="$classpokemones_1_1_pokemon.html#a0784f4f0bf3fb8593753cc58d7ae55f9" title=" " alt="" coords="223,56,440,83"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="175,50,207,54,207,59,175,56"/>
-</map>

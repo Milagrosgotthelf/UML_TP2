@@ -1,8 +1,0 @@
-<map id="arenas.ArenaTipoDecorator" name="arenas.ArenaTipoDecorator">
-<area shape="rect" id="Node000001" title=" " alt="" coords="26,211,196,344"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,37,83,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="62,120,92,210,87,212,57,122"/>
-<area shape="rect" id="Node000003" href="$interfacearenas_1_1_i_arena.html" title=" " alt="" coords="107,5,203,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="134,154,132,163,123,212,118,211,127,162,129,153"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="143,139,131,195,126,194,138,138"/>
-</map>
